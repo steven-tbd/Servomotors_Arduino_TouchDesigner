@@ -1,4 +1,4 @@
-# Servo-Motors_Arduino_TouchDesigner
+# Servomotors_Arduino_TouchDesigner
 control multiple servo motors with TouchDesigner and Arduino
 
 <h3>HARDWARE AND SOFTWARE:</h3>
@@ -18,7 +18,7 @@ control multiple servo motors with TouchDesigner and Arduino
 
 <br>
 <h3>TOUCHDESIGNER</h3>
-<p>Use a CHOP Execute DAT to send information through the SerialDAT to the Arduino. Make sure that the values you send to the Arduino fall between the minimum and maximum pulse width of your servo motors.</p>
+<p>Use a CHOP Execute DAT to send information through the SerialDAT to the Arduino. Make sure that the values you send to the Arduino fall between the minimum and maximum pulse width of your servomotors.</p>
 
 -----
 https://stevenmbenton.com/control-multiple-servos-with-touchdesigner/
